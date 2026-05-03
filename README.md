@@ -16,7 +16,7 @@ metrics including points scored, rebounds, assists and turnovers
 - NumPy
 
 ### Project Structure
-
+```
 ML_Project/
 │
 ├── data/
@@ -37,7 +37,7 @@ ML_Project/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ### Project Set Up.
 
 #### 1. Clone the Repo.
